@@ -1,5 +1,3 @@
-
-
 def bubble_sort list
   list.each_index do |index|
     (list.size - 1 - index).times do |i|
